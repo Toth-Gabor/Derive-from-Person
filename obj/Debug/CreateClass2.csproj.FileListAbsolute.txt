@@ -1,0 +1,7 @@
+D:\codecool\1.Si-week\CreateClass2\CreateClass2\bin\Debug\CreateClass2.exe.config
+D:\codecool\1.Si-week\CreateClass2\CreateClass2\bin\Debug\CreateClass2.exe
+D:\codecool\1.Si-week\CreateClass2\CreateClass2\bin\Debug\CreateClass2.pdb
+D:\codecool\1.Si-week\CreateClass2\CreateClass2\obj\Debug\CreateClass2.csprojAssemblyReference.cache
+D:\codecool\1.Si-week\CreateClass2\CreateClass2\obj\Debug\CreateClass2.csproj.CoreCompileInputs.cache
+D:\codecool\1.Si-week\CreateClass2\CreateClass2\obj\Debug\CreateClass2.exe
+D:\codecool\1.Si-week\CreateClass2\CreateClass2\obj\Debug\CreateClass2.pdb
